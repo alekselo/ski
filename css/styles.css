@@ -1,0 +1,171 @@
+@font-face {
+  font-family: "Catamaran-black";
+  src: url(../fonts/Catamaran-Black.ttf);
+}
+@font-face {
+  font-family: "Muli";
+  src: url(../fonts/Muli-Regular.ttf);
+}
+
+.body {
+  /* background-image: url(../img/containerBg.png); */
+}
+.container-fluid {
+  /* background-image: url(/img/containerBg.png); */
+}
+.promo {
+  height: 1070px;
+  background-image: url(../img/bgfinal.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.logo {
+  padding: 35px;
+}
+.navigation {
+  padding: 35px;
+  justify-content: flex-end;
+}
+.nav {
+  justify-content: flex-end;
+}
+.nav-item a {
+  color: white;
+}
+.nav-item a:hover {
+  color: rgb(2, 13, 104);
+}
+.booking {
+  padding-left: 10%;
+}
+.booking p {
+  color: #fefefe;
+  font-style: "Muli";
+  font-size: 24px;
+}
+.bookingbutton {
+  width: 240px;
+  height: 60px;
+  border-radius: 6px;
+  background-color: #ff690f;
+  color: #fefefe;
+  font-family: Catamaran;
+  font-size: 18px;
+}
+.offer {
+  /* height: 900px; */
+  background-image: url(../img/containerBg.png);
+  text-align: center;
+  /* border: black 2px solid; */
+}
+.offer h2 {
+  /* padding-top: 10%; */
+  color: #333333;
+  font-family: "Catamaran-black";
+  font-size: 60px;
+  font-weight: 400;
+  line-height: 90px;
+  letter-spacing: 0.6px;
+}
+
+.board img {
+  height: 186px;
+}
+
+.boardman img {
+  height: 186px;
+}
+.skiing {
+  height: 150px;
+  padding-left: 25%;
+  padding-right: 25%;
+}
+.skiing p {
+  padding-top: 25px;
+}
+.muli18 {
+  font-style: "Muli";
+  font-size: 18px;
+}
+.pricebtn {
+  width: 120px;
+  height: 50px;
+  background-color: #ff690f;
+  color: #fefefe;
+  font-family: Catamaran;
+  font-size: 15px;
+  font-weight: 700;
+}
+.gallery {
+  height: 900 px;
+  background-image: url(../img/containerBg.png);
+  /* border: black 2px solid; */
+  padding-top: 50px;
+}
+.carousel {
+  height: 800px !important;
+}
+.carousel-inner img {
+  height: 800px !important;
+  margin: 0 auto;
+}
+.team {
+  height: 600px;
+  background-image: url(../img/containerBg.png);
+  /* border: black 2px solid; */
+  text-align: center;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.team h2 {
+  font-family: "Catamaran-black";
+  font-size: 60px;
+  color: #333333;
+  padding-top: 5%;
+}
+.contact {
+  height: 400px;
+  background-image: url(../img/contact_bg.png);
+  /* border: black 2px solid; */
+}
+.contactlist {
+  background-image: url(/img/contact_bg.png);
+}
+.contact h2 {
+  font-family: "Catamaran-black";
+  color: #ffffff;
+  text-align: center;
+  padding-top: 10%;
+}
+.contactlist img {
+  height: 16px;
+  width: 16px;
+}
+.socialmedia img {
+  height: 30px;
+  width: 30px;
+}
+.contactlist ul {
+  padding-left: 30%;
+}
+.contactlist li {
+  font-family: "Muli";
+  font-size: 18px;
+  list-style-type: none;
+  color: #f7f7f7;
+}
+.cb24 {
+  font-family: "Catamaran-black";
+  color: #333333;
+  font-size: 24px;
+}
+.muli14 {
+  font-family: "Muli";
+  font-size: 14px;
+  text-transform: uppercase;
+  padding-top: 10px;
+}
+.map iframe {
+  margin-top: 2px;
+}
