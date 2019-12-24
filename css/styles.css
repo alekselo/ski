@@ -166,6 +166,9 @@
   text-transform: uppercase;
   padding-top: 10px;
 }
+.map{
+  text-align: center;
+}
 .map iframe {
   margin-top: 2px;
 }
